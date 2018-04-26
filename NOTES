@@ -1,0 +1,16 @@
+- fn + Shift + F10 runs function
+
+- function(sub routine) declaration: returnType name(parameters);
+
+- function has to be declared physically before it is used:
+	void sayHello();
+	int main() {
+		sayHello();
+	}
+- array indexes like java, but will not error index out of bounds if a variable is called arguement: b = 6; a[6]; -> no error until runtime.
+
+- understand Passing Arrays slide!!! - test
+	changing what 'a' points to doesn't stick
+	changing what is in 'a' sticks
+
+- understand Buble Sort: j = 1?

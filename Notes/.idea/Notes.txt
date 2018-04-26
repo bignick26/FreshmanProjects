@@ -1,0 +1,23 @@
+10/20/16
+
+Inheritance-
+class Animal {
+public:
+    virtual void Speak() {
+
+    }
+};
+
+class Dog : public Animal {
+public:
+    void Speak() {
+
+    }
+};
+
+class Cat : public Animal {
+public:
+    void Speak() {
+
+    }
+}
